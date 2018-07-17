@@ -1,0 +1,14 @@
+Array guardando: Arroz, Feijão, Macarrão, Leite, Farinha de trigo, Água, Sabonete, Shampoo, Café, Pessego, Maçã, Limão. 
+
+Exercício
+
+
+A - Criado
+
+B - Macarrão
+
+C - Leite
+
+D - 10
+
+E - 

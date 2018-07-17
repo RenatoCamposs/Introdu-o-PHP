@@ -1,0 +1,86 @@
+Operadores:
+
+Comparação
+==
+
+Exatamente igual
+===
+
+Diferente
+<>  ou !== 
+
+Soma
++
+
+Subtração
+-
+
+Multiplicação
+*
+
+Divisão
+/
+
+Função mod (pega o resto da diviso)
+%
+
+Função se
+&&
+
+Função ou
+||
+
+Símbolo menor que
+<
+
+Símbolo maior que
+>
+
+Símbolo menor ou igual
+<= 
+
+Símbolo maior ou igual
+>=
+
+A diferença entre a função "print" e "echo", é que a função "print" é mais avançada, permitindo parâmetros, e também imprimir na impressora
+
+Funções:
+
+Função 1:
+//Faz a verificação no inicio
+while (expressão)
+{
+
+}
+
+Função 2:
+//Garante que pelo menos 1 vez será executada a expressão
+do {
+
+}while(expressão)
+
+Função 2:
+//"exp1" Vai inicializar a variável, dizendo seu valor inicial
+//"exp2" Vai dizer seu valor final
+//"exp3" Vai executar no numero de incrementações
+ 
+for(exp, exp2, exp3)
+{
+
+}
+
+Função 3:
+switch
+
+Função 4:
+foreach
+
+solução que imprima numeros pares e ímpares
+
+Exercicio
+<?php
+for ($num=1; $num<=21; $num++)
+{
+echo "Números pares <br>" . $num " ";
+}
+?>
